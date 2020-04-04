@@ -1,3 +1,0 @@
-﻿VeryCoolBot/bin/
-VeryCoolBot/obj
-VeryCoolBot/ConfigHandler.cs
